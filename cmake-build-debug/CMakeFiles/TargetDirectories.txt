@@ -1,0 +1,3 @@
+/home/tinykishore/Desktop/FileOp-unified/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tinykishore/Desktop/FileOp-unified/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tinykishore/Desktop/FileOp-unified/cmake-build-debug/CMakeFiles/main.dir
